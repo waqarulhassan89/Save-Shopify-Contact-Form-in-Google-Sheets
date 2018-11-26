@@ -1,1 +1,1 @@
-# Save-Shopify-Contact-Form-in-Google-Sheets
+How to Save Shopify Contact Form Data to Google Sheets…
