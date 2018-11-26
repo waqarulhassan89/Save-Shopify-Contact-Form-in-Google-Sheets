@@ -1,4 +1,4 @@
-**How to Save Shopify Contact Form Data to Google Sheets…?**
+**How to Save Shopify Contact Form Data to Google Sheets…?
 
 It's very simple and quick if you follow my guide. This setup needs to be done in 2 steps:
 
