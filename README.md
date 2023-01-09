@@ -10,4 +10,6 @@ https://www.youtube.com/watch?v=ENtbd0Qp5RY
 
 Updata 2021: I've posted another short video of how to setup googlesheets script in 2021. Please watch and follow steps carefully: https://www.youtube.com/watch?v=g0eF8Cijb3M
 
+Update 2023: I've posted another short video of how to setup googlesheets script in 2023. Please watch and follow steps carefully: https://www.youtube.com/watch?v=utb_wSk2j8k
+
 If you still have a question or if you want me to set it up for you, then feel free to contact me through my UpWork profile https://www.upwork.com/fl/waqarulhassan or my website https://www.waqarulhassan.com
